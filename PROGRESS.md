@@ -6,21 +6,20 @@ Updated: 26 November 2026
 
 ## HackerRank
 
-- Profile URL : https://www.hackerrank.com/profile/your-hackerrank-username
+- Profile URL : https://www.hackerrank.com/profile/h2601010202
 - Problems solved : 3 (Say Hello, Python If-Else, Arithmetic Operators)
 - Skill test taken : Python (Basic)
-- Certificate : Pending
+- Certificate : pending
 
 ## LeetCode
 
-- Profile URL : https://leetcode.com/u/your-leetcode-username
+- Profile URL : https://leetcode.com/u/panktijaiswal/
 - Easy attempted : 2 (Two Sum, Palindrome Number)
 - Easy solved : 2
 - Medium attempted : 0
 
 ## freeCodeCamp
-
-- Profile URL : https://www.freecodecamp.org/your-freecodecamp-username
+- Profile URL : https://www.freecodecamp.org/panktijaiswal
 - Current track : Responsive Web Design
 - Steps completed : 25 / approx. 300 hours for full certification
 
